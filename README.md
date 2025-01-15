@@ -1,10 +1,5 @@
 ## Hi there, I'm Sibongile! 👋
 
-<!--
-**SiboSeale/SiboSeale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I am a Junior Data Analyst with a robust background in Data Operations, AI Data Training, and Business Language Coaching.
 - 🌱 I’m self-learning data analytics alongside data science fundamentals such as data cleaning, data exploration and visualization, and data modeling.
 
@@ -15,7 +10,6 @@ Here are some ideas to get you started:
 - Excel Bike Purchase Analysis
 
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/sibongile-seale-7b3995121/
--->
 
 ## Tech Tools
 
