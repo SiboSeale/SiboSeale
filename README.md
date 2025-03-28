@@ -4,10 +4,10 @@
 - 🌱 I’m self-learning data analytics alongside data science fundamentals such as data cleaning, data exploration and visualization, and data modeling.
 
 🌟 Current Projects:
-- COVID-19 Deaths SQL Analysis
-- Python Data Cleaning Project
-- Power BI Professional Survey Insights Dashboard
-- Excel Bike Purchase Analysis
+- Restaurant Order Analysis in SQL
+- Data Cleaning Project using Pandas in Python
+- Toy Store KPI Report in Power BI
+- Coffee Shop Sales Dashboard using Excel
 
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/sibongile-seale-7b3995121/
 
