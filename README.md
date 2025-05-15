@@ -4,7 +4,7 @@
 - 🌱 I’m self-learning data analytics alongside data science fundamentals such as data cleaning, data exploration and visualization, and data modeling.
 
 🌟 Current Projects:
-- Restaurant Order Analysis in SQL
+- SQL Data Warehouse Project
 - Data Cleaning Project using Pandas in Python
 - Toy Store KPI Report in Power BI
 - Coffee Shop Sales Dashboard using Excel
