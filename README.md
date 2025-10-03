@@ -1,7 +1,7 @@
 ## Hi there, I'm Sibongile! 👋
 
-- 🔭 I am a Junior Data Analyst with a robust background in Data Operations, AI Data Training, and Business Language Coaching.
-- 🌱 I’m self-learning data analytics alongside data science fundamentals such as data cleaning, data exploration and visualization, and data modeling.
+- 🔭 I am a junior Data Analyst with experience in business intelligence and logistics operations. 
+- 🌱 Skilled in SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), and Power BI, with a focus on building dashboards, writing queries, and developing data flows that ensure accurate and consistent reporting. Passionate about turning data into actionable insights to support decision-making.
 
 🌟 Current Projects:
 - SQL Data Warehouse Project
