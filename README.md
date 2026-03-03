@@ -7,7 +7,7 @@
 - SQL Data Warehouse Project
 - Data Cleaning Project using Pandas in Python
 - Toy Store KPI Report in Power BI
-- Coffee Shop Sales Dashboard using Excel
+- Housing in Mexico Pricing Analysis using Python
 
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/sibongile-seale-7b3995121/
 
