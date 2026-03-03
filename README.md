@@ -1,6 +1,6 @@
 ## Hi there, I'm Sibongile! 👋
 
-- 🔭 I am a junior Data Analyst with experience in business intelligence and logistics operations. 
+- 🔭 I am a Data Analyst with experience in business intelligence and logistics operations. 
 - 🌱 Skilled in SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), and Power BI, with a focus on building dashboards, writing queries, and developing data flows that ensure accurate and consistent reporting. Passionate about turning data into actionable insights to support decision-making.
 
 🌟 Current Projects:
