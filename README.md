@@ -5,8 +5,8 @@
 
 🌟 Current Projects:
 - SQL Data Warehouse Project
-- Data Cleaning Project using Pandas in Python
-- Toy Store KPI Report in Power BI
+- SQL - Customer Retention Project in Personal Banking
+- Customer Retention Dashboard using Power BI
 - Housing in Mexico Pricing Analysis using Python
 
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/sibongile-seale-7b3995121/
